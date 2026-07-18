@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist+Pixel&display=swap');
+
+h1{
+    color: palevioletred;
+    background-color: darkslategrey;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    text-align: justify;
+    text-indent: 10px;
+    /* line-height: 1.2rem; */
+    word-spacing: 10px;
+    color: transparent;
+    text-shadow: 3px 3px 1px red;
+    font-family: cursive;
+}
+
+span {
+    font-family: "Geist Pixel",sans-serif;
+}
