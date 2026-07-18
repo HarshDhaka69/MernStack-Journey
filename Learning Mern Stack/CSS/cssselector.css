@@ -1,3 +1,8 @@
+body {
+    background-color: deeppink;
+    padding: auto;
+}
+
 /* Element Selector */
 
 p {
@@ -52,3 +57,4 @@ h2 {
 #dirSel > p {
     color: chartreuse;
 }
+
