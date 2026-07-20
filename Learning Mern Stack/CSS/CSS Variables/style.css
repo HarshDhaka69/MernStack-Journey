@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: cursive;
+}
+
+:root {
+    --primary-text-color : purple;
+    --primary-background-color : yellow;
+    --margin-padding : 20px;
+}
+
+.container {
+    padding: 45px;
+}
+
+.box {
+    color : var(--primary-text-color);
+    background-color: var(--primary-background-color);
+    padding: var(--margin-padding);
+    margin-block: var(--margin-padding);
+    border-radius: 5%;
+}
+
+h1 {
+    color: var(--primary-text-color);
+    background-color: var(--primary-background-color);
+    text-align: center;
+    padding: var(--margin-padding);
+    margin-block: var(--margin-padding);
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    --local-color : red;
+    color: var(--local-color);
+}
