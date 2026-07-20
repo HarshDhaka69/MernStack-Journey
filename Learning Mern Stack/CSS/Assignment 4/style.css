@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+}
+
+.left{
+    flex-basis: 50%;
+    background-color: #e0f7fa;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    padding: 16%;
+}
+
+.left img{
+    width: 160%;
+    height: auto;
+}
+
+.brand-name{
+    font-size: 22px;
+    font-weight: 600;
+    color: #006064;
+}
+
+.right{
+    flex-basis: 50%;
+    border: 2px solid whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right form{
+    width: 70%;
+    text-align: center;
+}
+
+.right h1{
+    font-size: 4rem;
+}
+
+.right h4{
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.right h4 a{
+    color: #0d6efd;
+    text-decoration: none;
+}
+
+.field{
+    margin-bottom: 16px;
+    text-align: left;
+}
+
+.field label{
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 6px;
+}
+
+.field input{
+    width: 100%;
+    padding: 15px;
+    background-color: #e1e3e7;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    color: #1a202c;
+    outline: none;
+}
+
+.field input:focus{
+    box-shadow: 0 0 0 3px rgba(13,110,253,0.2);
+}
+
+.forgot{
+    text-align: right;
+    margin-bottom: 16px;
+}
+
+.forgot a{
+    color: #0d6efd;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.right button{
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    color: white;
+    background-color: #0d6efd;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.right button:hover{
+    background-color: #0b5ed7;
+}
+
+.register{
+    margin-top: 20px;
+}
