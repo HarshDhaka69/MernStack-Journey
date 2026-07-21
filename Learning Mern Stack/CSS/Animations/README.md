@@ -1,13 +1,14 @@
-# CSS Transforms Assignment
+# CSS Animations Assignment
 
-This project demonstrates the use of CSS Transforms to create interactive button hover effects.
+This project demonstrates CSS animations by building a responsive webpage using transitions and keyframe animations.
 
 ## Features
 
-- Button scale animation on hover
-- Button rotation effect
-- Smooth transition animations
-- Responsive layout
+- Responsive webpage layout
+- CSS Transitions
+- CSS Keyframe Animations
+- Orbit animation effect
+- Image squeeze animation
 
 ## Technologies Used
 
