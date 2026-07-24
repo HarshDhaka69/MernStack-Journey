@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    width: 50vw;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10vh;
+    border: 1px solid white;
+}
+
+img{
+    width: 100%;
+    display: block;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    background: linear-gradient(to right, rgb(95, 59, 226), rgb(165, 34, 40));
+}

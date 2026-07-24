@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    padding: 20px 40px;
+}
+
+nav::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+nav img{
+    width: 60px;
+    float: left;
+}
+
+nav ul{
+    float: right;
+    list-style: none;
+}
+
+nav ul li{
+    display: inline-block;
+    margin-left: 20px;
+    line-height: 60px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.username{
+    float: right;
+    margin-left: 160px;
+    line-height: 60px;
+    font-weight: bold;
+    color: white;
+    background: #0d6efd;
+    padding: 0 15px;
+    border-radius: 5px;
+}
+
+.hero{
+    height: 80vh;
+    padding: 30px 50px;
+}
+
+.hero::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.left{
+    width: 45%;
+    float: left;
+    margin-top: 40px;
+}
+
+.left h1{
+    font-size: 52px;
+    margin-bottom: 20px;
+}
+
+.left p{
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
+
+.left button{
+    padding: 15px 30px;
+    font-size: 18px;
+    color: white;
+    background-color: #0d6efd;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+div h1 span {
+    font-size: 42px;
+    color: rgb(145, 12, 12);
+}
+
+.right{
+    width: 45%;
+    float: right;
+}
+
+.right img{
+    width: 100%;
+    max-height: 450px;
+    height: auto;
+}
