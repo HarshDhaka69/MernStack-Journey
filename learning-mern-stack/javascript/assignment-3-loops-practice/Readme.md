@@ -26,7 +26,7 @@ A beginner-friendly JavaScript assignment demonstrating the use of loops, condit
 ## Project Structure
 
 ```
-Taks_14/
+assignment-3-loops-practice/
 ├── index.html
 ├── script.js
 └── README.md
