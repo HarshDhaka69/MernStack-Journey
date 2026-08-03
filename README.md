@@ -43,6 +43,10 @@ Welcome to my MERN Stack learning repository! This repository documents my journ
 - ✅ Loops
 - ✅ Functions
 - ✅ Arrays
+- ✅ Pattern Programming
+    ⭐ Star Patterns
+    🔢 Number Patterns
+    🔤 Character Patterns
 - ⏳ DOM Manipulation
 - ⏳ Events
 - ⏳ ES6+
