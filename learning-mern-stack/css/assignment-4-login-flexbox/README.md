@@ -9,7 +9,7 @@ Two-column layout with an image on the left and a login form on the right.
 ## Structure
 
 ```
-Harsh_Task6/
+assignment-4-login-flexbox/
 ├── index.html
 ├── style.css
 └── README.md

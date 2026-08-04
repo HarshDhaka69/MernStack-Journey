@@ -19,7 +19,7 @@ This project demonstrates the use of CSS Units, Box Model, Fonts, and Gradient B
 ## Project Structure
 
 ```
-Harsh_Task4/
+assignment-2-units-box-model/
 │── index.html
 │── style.css
 └── README.md

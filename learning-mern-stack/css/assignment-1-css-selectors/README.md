@@ -23,7 +23,7 @@ Open `index.html` in any web browser.
 ## Project Structure
 
 ```
-Harsh_Task3/
+assignment-1-css-selectors/
 │── index.html
 │── style.css
 └── README.md
