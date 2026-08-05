@@ -7,7 +7,7 @@ This directory contains my JavaScript pattern programming practice using nested 
 ### ⭐ Star Patterns
 - [X] Square Pattern
 - [X] Left Triangle
-- [ ] Right Triangle
+- [X] Right Triangle
 - [ ] Inverted Left Triangle
 - [ ] Inverted Right Triangle
 - [ ] Pyramid
