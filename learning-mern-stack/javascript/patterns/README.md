@@ -8,7 +8,7 @@ This directory contains my JavaScript pattern programming practice using nested 
 - [X] Square Pattern
 - [X] Left Triangle
 - [X] Right Triangle
-- [ ] Inverted Left Triangle
+- [X] Inverted Left Triangle
 - [ ] Inverted Right Triangle
 - [ ] Pyramid
 - [ ] Inverted Pyramid
